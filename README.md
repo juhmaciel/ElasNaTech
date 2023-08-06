@@ -1,41 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
- <style>
-    h1 {
-      text-align: center;
-      font-size: 40px;
-      text-decoration: underline;
-      color: #2bacbb;
-      style: bold;
-    }
-    h2 {
-    font-size: 15px;
-    text-align: center;
-	}
-    body {
-    color: #073C4E;
-    text-align: left;
-    font-family: verdana;
-  	background-color: #e1e3e7
-}
-    a {
-    color: #073C4E;
-    font-family: verdana;
-}
-article {
-  float: right;
-  padding: 20px;
-  width: 70%;
-  background-color: #CDD3D0;
-  height: 150px;
-}
-    </style>
-<title> ElasNaTech - Juliana Maciel</title>
 </head>
 <body>
 <h1> ElasNaTech </h1>  
-<h2> Projetos práticos do "Curso Livre de Capacitação em Desenvolvimento Web"do programa ElasNaTech - Turma 1. </h2>
+<h3> Projetos práticos do "Curso Livre de Capacitação em Desenvolvimento Web"do programa ElasNaTech - Turma 1. </h3>
 <br>
 <center><img src="elasnatech.png" alt="Elas Na Tech" width= 7%></center>
 <br>
